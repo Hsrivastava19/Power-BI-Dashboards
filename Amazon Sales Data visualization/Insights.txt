@@ -1,0 +1,6 @@
+While analyzing the dataset, I came across the following insights:
+
+Amazon did a total sales of Rs. 4.58 million with a customer base of 26.77 million users. There were a total of 1,351 products with an average rating of 4.10.
+
+The highest selling category was electronics with 35.9% of the total share, whereas the highest selling subcategory was USB Cables with 3.55 million customers and 4.15 average rating.
+
